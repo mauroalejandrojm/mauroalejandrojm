@@ -2,6 +2,8 @@
 
 ### Computer Science Researcher and Pattern Recognition Potter. <img src="./svg/potterGlasses.svg" width="42">
 
+[![Linkedin Profile](https://img.shields.io/badge/?logo=data:./svg/linkedin.svg?label=Linkedin?style=Mauro_Jimenez_M?color=1DA1F2)]([linkedin])
+
 [![Twitter Follow](https://img.shields.io/twitter/follow/MauroJimenezM?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://github.com/MauroJimenezM&screen_name=MauroJimenezM)
 
 ### The most difficult skill I have learned is listening to others and be the last to talk.
