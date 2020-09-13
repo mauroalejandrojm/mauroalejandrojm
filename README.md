@@ -41,7 +41,7 @@
 
 ---
 
-<details style="font-size:20px;font-family:'Segoe UI'">
+<details>
   <summary>
   <p style="font-size:20px;font-family:'Segoe UI'"> Github Basic Statistics 
   </p>
