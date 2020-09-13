@@ -25,6 +25,9 @@
 
 ---
 
+[![Github Basic Statistics](https://github-readme-stats.vercel.app/api?username=mauroalejandrojm)](https://github.com/mauroalejandrojm/github-readme-stats)
+
+
 [Medium]: https://medium.com/@JMmauro
 [twitter]: https://twitter.com/MauroJimenezM
 [linkedin]: https://www.linkedin.com/in/mauro-alejandro-jimenez-medina-b899b7167/
