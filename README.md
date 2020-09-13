@@ -11,6 +11,7 @@
 - I’m looking to collaborate with other Researchers on fields like Psychology and Signal Processing.
 - 2020 Goals: Contribute more to Open Source projects (& use Github).
 ---
+
 [Medium]: https://medium.com/@JMmauro
 [twitter]: https://twitter.com/MauroJimenezM
 [linkedin]: https://www.linkedin.com/in/mauro-alejandro-jimenez-medina-b899b7167/
