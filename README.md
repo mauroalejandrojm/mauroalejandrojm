@@ -21,6 +21,7 @@
 [<img align="left" alt="Mauro Jimenez M | Researchgate" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/researchgate.svg" />][Researchgate]
 [<img align="left" alt="Mauro Jimenez M | Google Scholar" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlescholar.svg" />][GoogleScholar]
 
+<br/>
 ---
 
 [Medium]: https://medium.com/@JMmauro
