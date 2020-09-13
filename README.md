@@ -1,4 +1,4 @@
-### Greetings, I'm Mauro Alejandro. 
+### Greetings, I'm Mauro Jimenez. 
 
 ### Computer Science Researcher and Pattern Recognition Potter. <img src="https://mauroalejandrojm.vercel.app/potterGlasses.svg" width="42">
 
