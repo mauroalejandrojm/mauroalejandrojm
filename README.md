@@ -43,7 +43,7 @@
 
 <details>
   <summary>
-  <b style="font-size:20px;font-family:'Segoe UI'"> Github Basic Statistics 
+  <b style="font-size:26px;font-family:'Segoe UI'"> Github Basic Statistics 
   </b>
   </summary>
 
