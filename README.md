@@ -25,8 +25,12 @@
 
 ---
 
-[![Github Basic Statistics](https://github-readme-stats.vercel.app/api?username=mauroalejandrojm&show_icons=true&hide_border=true)](https://github.com/mauroalejandrojm/github-readme-stats)
+<details>
+  <summary>:zap: Github Basic Statistics</summary>
 
+  <img align="left" alt="Github Basic Statistics" src="https://github-readme-stats.vercel.app/api?username=mauroalejandrojm&show_icons=true&count_private=true&hide_border=true?theme=vue" />
+
+</details>
 
 [Medium]: https://medium.com/@JMmauro
 [twitter]: https://twitter.com/MauroJimenezM
