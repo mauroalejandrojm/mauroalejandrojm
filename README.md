@@ -28,7 +28,7 @@
 <details>
   <summary><b> Github Basic Statistics </b></summary>
 
-  <img align="left" alt="Github Basic Statistics" src="https://github-readme-stats.vercel.app/api?username=mauroalejandrojm?theme=vue&show_icons=true&count_private=true&hide_border=true" />
+  <img align="left" alt="Github Basic Statistics" src="https://github-readme-stats.mauroalejandrojm.vercel.app?username=mauroalejandrojm&theme=vue&show_icons=true&count_private=true&hide_border=true" />
 
 </details>
 
