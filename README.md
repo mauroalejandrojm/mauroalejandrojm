@@ -26,7 +26,7 @@
 ---
 
 <details>
-  <summary>:zap: Github Basic Statistics</summary>
+  <summary> Github Basic Statistics</summary>
 
   <img align="left" alt="Github Basic Statistics" src="https://github-readme-stats.vercel.app/api?username=mauroalejandrojm&show_icons=true&count_private=true&hide_border=true?theme=vue" />
 
