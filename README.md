@@ -13,6 +13,15 @@
 - 2020 Goals: Contribute more to Open Source projects (& use Github).
 ---
 
+### Social Networks:
+
+[<img align="left" alt="Mauro Jimenez M | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Mauro Jimenez M | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Mauro Jimenez M | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/Medium.svg" />][Medium]
+[<img align="left" alt="Mauro Jimenez M | Researchgate" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/researchgate.svg" />][Researchgate]
+[<img align="left" alt="Mauro Jimenez M | Google Scholar" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlescholar.svg" />][GoogleScholar]
+---
+
 [Medium]: https://medium.com/@JMmauro
 [twitter]: https://twitter.com/MauroJimenezM
 [linkedin]: https://www.linkedin.com/in/mauro-alejandro-jimenez-medina-b899b7167/
