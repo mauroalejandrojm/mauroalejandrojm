@@ -43,8 +43,8 @@
 
 <details>
   <summary>
-  <p style="font-size:20px;font-family:'Segoe UI'">Github Basic Statistics 
-  </p>
+  <b style="font-size:20px;font-family:'Segoe UI'"> Github Basic Statistics 
+  </b>
   </summary>
 
   <img align="left" alt="Github Basic Statistics" src="https://github-readme-stats.mauroalejandrojm.vercel.app/api?username=mauroalejandrojm&theme=vue&show_icons=true&count_private=true&hide_border=true" />
