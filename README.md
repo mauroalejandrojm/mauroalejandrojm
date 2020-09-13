@@ -2,7 +2,7 @@
 
 ### Computer Science Researcher and Pattern Recognition Potter. <img src="./svg/potterGlasses.svg" width="42">
 
-[![Linkedin Profile](https://img.shields.io/static/v1?label=MyProfile?color=1DA1F2&logo=Linkedin&message=Mauro%20JimenezM)]([linkedin])
+[![Linkedin Profile](https://img.shields.io/static/v1?label=MyProfile?color=1DA1F2&logo=Linkedin)]([linkedin])
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/MauroJimenezM?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://github.com/MauroJimenezM&screen_name=MauroJimenezM)
 
