@@ -1,10 +1,10 @@
 ### Greetings, I'm Mauro Alejandro. 
 
-### Computer Science Researcher and Pattern Recognition Potter. <img src=PotterGlasses width="32">
+### Computer Science Researcher and Pattern Recognition Potter. <img src=[PotterGlasses] width="32">
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/MauroAlejandroJM?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://github.com/mauroalejandrojm&screen_name=MauroAlejandroJM)
 
-[PotterGlasses]: ./svg/potterGlasses.svg
+[PotterGlasses]:
 [Medium]: https://medium.com/@JMmauro
 [twitter]: https://twitter.com/MauroJimenezM
 [linkedin]: https://www.linkedin.com/in/mauro-alejandro-jimenez-medina-b899b7167/
