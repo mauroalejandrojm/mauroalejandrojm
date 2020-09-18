@@ -50,7 +50,7 @@
 
 </details>
 
-[embed]https://mauroalejandrojm.vercel.app/pdf/resume-cv.pdf"[/embed]
+[embed]https://mauroalejandrojm.vercel.app/pdf/resume-cv.pdf[/embed]
 
 [Medium]: https://medium.com/@JMmauro
 [twitter]: https://twitter.com/MauroJimenezM
