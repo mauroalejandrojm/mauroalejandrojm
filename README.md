@@ -56,7 +56,8 @@
 
 <a href="https://mauroalejandrojm.vercel.app/pdf/resume-cv.pdf" class="image fit"><img src="https://mauroalejandrojm.vercel.app/pdf/resume-cv.pdf" alt=""></a>
     <embed src="https://mauroalejandrojm.vercel.app/pdf/resume-cv.pdf">
-        <p>It seems there's a problem, this browser does not support PDFs. Please click on the link to download my Resume: <a href="https://mauroalejandrojm.vercel.app/pdf/resume-cv.pdf">Mauro Jimenez Resume PDF</a>.</p>
+        <p>It seems there's a problem, this browser does not support PDFs. 
+        Please click on the link to download my Resume: <a href="https://mauroalejandrojm.vercel.app/pdf/resume-cv.pdf">Mauro Jimenez Resume PDF</a>.</p>
     </embed>
 </object>
 
