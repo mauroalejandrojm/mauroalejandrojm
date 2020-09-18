@@ -50,8 +50,6 @@
 
 </details>
 
-<br />
-
 ---
 
 <object data="https://mauroalejandrojm.vercel.app/pdf/resume-cv.pdf" type="application/pdf" width="800px" height="800px">
