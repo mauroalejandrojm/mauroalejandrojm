@@ -53,7 +53,7 @@
 ---
 
 ### My Resume. 
-<img src="https://mauroalejandrojm.vercel.app/svg/resume.svg" width="42">
+<img src="https://mauroalejandrojm.vercel.app/svg/resume.svg" width="800">
 
 <object data="https://mauroalejandrojm.vercel.app/pdf/resume-cv.pdf" type="application/pdf" width="800px" height="800px">
     <embed src="https://mauroalejandrojm.vercel.app/pdf/resume-cv.pdf">
