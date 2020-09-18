@@ -48,8 +48,8 @@
   <img align="left" src="https://mauroalejandrojm.vercel.app/svg/resume.svg" width="840"/>
   <object data="https://mauroalejandrojm.vercel.app/pdf/resume-cv.pdf" type="application/pdf" width="800px" height="800px">
     <embed src="https://mauroalejandrojm.vercel.app/pdf/resume-cv.pdf">
-        <p>If my resume does not show up, it might be because the browser does not support PDFs.</p>
-        <p>Please click on the link to download my Resume: <a href="https://mauroalejandrojm.vercel.app/pdf/resume-cv.pdf">Mauro Jimenez Resume PDF</a>.</p>
+        <p style="font-size:26px;font-family:'Segoe UI'">If my resume does not show up, it might be because the browser does not support PDFs.</p>
+        <p style="font-size:26px;font-family:'Segoe UI'">Please click on the link to download my Resume: <a style="font-size:26px;font-family:'Segoe UI'" href="https://mauroalejandrojm.vercel.app/pdf/resume-cv.pdf">Mauro Jimenez Resume PDF</a>.</p>
     </embed>
   </object>
 </details>
