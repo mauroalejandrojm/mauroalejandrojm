@@ -52,6 +52,9 @@
 
 ---
 
+### My Resume. 
+<img src="https://mauroalejandrojm.vercel.app/svg/resume.svg" width="42">
+
 <object data="https://mauroalejandrojm.vercel.app/pdf/resume-cv.pdf" type="application/pdf" width="800px" height="800px">
     <embed src="https://mauroalejandrojm.vercel.app/pdf/resume-cv.pdf">
         <p>It seems there's a problem, this browser does not support PDFs.</p>
