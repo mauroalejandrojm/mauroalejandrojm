@@ -53,7 +53,7 @@
 <br />
 
 ---
-
+<iframe src="https://docs.google.com/viewerng/viewer?url=https://mauroalejandrojm.vercel.app/pdf/resume-cv.pdf&hl=bn&embedded=true"></iframe>
 <object data="https://mauroalejandrojm.vercel.app/pdf/resume-cv.pdf" type="application/pdf" width="800px" height="800px">
     <embed src="https://mauroalejandrojm.vercel.app/pdf/resume-cv.pdf">
         <p>It seems there's a problem, this browser does not support PDFs. Please click on the link to download my Resume: <a href="https://mauroalejandrojm.vercel.app/pdf/resume-cv.pdf">Mauro Jimenez Resume PDF</a>.</p>
