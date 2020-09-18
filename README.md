@@ -50,7 +50,15 @@
 
 </details>
 
-[embed]https://mauroalejandrojm.vercel.app/pdf/resume-cv.pdf[/embed]
+<br />
+
+---
+
+<object data="https://mauroalejandrojm.vercel.app/pdf/resume-cv.pdf" type="application/pdf" width="800px" height="800px">
+    <embed src="https://mauroalejandrojm.vercel.app/pdf/resume-cv.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://mauroalejandrojm.vercel.app/pdf/resume-cv.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
 
 [Medium]: https://medium.com/@JMmauro
 [twitter]: https://twitter.com/MauroJimenezM
