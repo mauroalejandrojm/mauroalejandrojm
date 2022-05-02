@@ -1,209 +1,287 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1702" height="1267" viewBox="0 0 1702 1267">
   <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-Resume-CV-SVG);
+      }
+
+      .cls-2 {
+        fill: #07033e;
+      }
+
+      .cls-3, .cls-5, .cls-6 {
+        font-size: 16px;
+      }
+
+      .cls-3 {
+        font-family: Rubik-Regular, Rubik;
+      }
+
+      .cls-4, .cls-5 {
+        font-family: Roboto-Regular, Roboto;
+      }
+
+      .cls-6 {
+        font-family: Roboto-Bold, Roboto;
+        font-weight: 700;
+      }
+
+      .cls-7 {
+        fill: #06063c;
+      }
+
+      .cls-10, .cls-7 {
+        font-size: 18px;
+      }
+
+      .cls-7, .cls-9 {
+        font-family: Oswald-Regular, Oswald;
+      }
+
+      .cls-8 {
+        font-family: Oswald-ExtraLight, Oswald;
+        font-weight: 200;
+      }
+
+      .cls-10, .cls-11, .cls-12, .cls-14, .cls-9 {
+        fill: #fff;
+      }
+
+      .cls-9 {
+        font-size: 36px;
+      }
+
+      .cls-10, .cls-12 {
+        font-family: Roboto-Light, Roboto;
+        font-weight: 300;
+      }
+
+      .cls-11 {
+        opacity: 0.5;
+      }
+
+      .cls-12 {
+        font-size: 14px;
+      }
+
+      .cls-13 {
+        fill: none;
+      }
+    </style>
     <clipPath id="clip-Resume-CV-SVG">
       <rect width="1702" height="1267"/>
     </clipPath>
   </defs>
-  <g id="Resume-CV-SVG" clip-path="url(#clip-Resume-CV-SVG)">
-    <rect width="1702" height="1267" fill="#fff"/>
-    <path id="Path_5" data-name="Path 5" d="M0,0H842V175H0Z" fill="#07033e"/>
-    <g id="Header" transform="translate(-17 26)">
-      <text id="Mauro_Alejandro_Jimenez_Medina" data-name="Mauro Alejandro Jimenez Medina" transform="translate(157 43)" fill="#fff" font-size="36" font-family="Oswald-Regular, Oswald"><tspan x="0" y="0">Mauro Alejandro Jimenez Medina</tspan></text>
-      <text id="Electronics_Engineer_and_Data_Engineer" data-name="Electronics Engineer and Data Engineer" transform="translate(157 75)" fill="#fff" font-size="18" font-family="Roboto-Light, Roboto" font-weight="300"><tspan x="0" y="0">Electronics Engineer and Data Engineer</tspan></text>
-      <g id="Group_2" data-name="Group 2" transform="translate(157 107.453)">
-        <path id="ic_location_on_24px" d="M10.25,2A5.246,5.246,0,0,0,5,7.25C5,11.188,10.25,17,10.25,17s5.25-5.812,5.25-9.75A5.246,5.246,0,0,0,10.25,2Zm0,7.125A1.875,1.875,0,1,1,12.125,7.25,1.876,1.876,0,0,1,10.25,9.125Z" transform="translate(-5 -1)" fill="#fff" opacity="0.5"/>
-        <text id="Barranquilla_Colombia" data-name="Barranquilla, Colombia" transform="translate(19 12.547)" fill="#fff" font-size="14" font-family="Roboto-Light, Roboto" font-weight="300"><tspan x="0" y="0">Barranquilla, Colombia</tspan></text>
-      </g>
-      <g id="Group_3" data-name="Group 3" transform="translate(345 107.453)">
-        <path id="ic_local_phone_24px" d="M5.916,9.275a12.2,12.2,0,0,0,5.309,5.309L13,12.812a.8.8,0,0,1,.822-.193,9.189,9.189,0,0,0,2.876.459.808.808,0,0,1,.806.806v2.811a.808.808,0,0,1-.806.806A13.693,13.693,0,0,1,3,3.806.808.808,0,0,1,3.806,3H6.625a.808.808,0,0,1,.806.806A9.151,9.151,0,0,0,7.89,6.681a.808.808,0,0,1-.2.822Z" transform="translate(-3 -2)" fill="#fff" opacity="0.5"/>
-        <text id="_57_3159282712" data-name="+57 3159282712" transform="translate(23 12.547)" fill="#fff" font-size="14" font-family="Roboto-Light, Roboto" font-weight="300"><tspan x="0" y="0">+57 3159282712</tspan></text>
-      </g>
-      <g id="Group_4" data-name="Group 4" transform="translate(515 107.453)">
-        <path id="ic_markunread_24px" d="M13.137,4h-9.9A1.236,1.236,0,0,0,2.006,5.237L2,12.662A1.241,1.241,0,0,0,3.237,13.9h9.9a1.241,1.241,0,0,0,1.237-1.237V5.237A1.241,1.241,0,0,0,13.137,4Zm0,2.475L8.187,9.569,3.237,6.475V5.237l4.95,3.094,4.95-3.094Z" transform="translate(-2)" fill="#fff" opacity="0.5"/>
-        <text id="jmauro_uninorte.edu.co" data-name="jmauro@uninorte.edu.co" transform="translate(20 12.547)" fill="#fff" font-size="14" font-family="Roboto-Light, Roboto" font-weight="300"><tspan x="0" y="0">jmauro@uninorte.edu.co</tspan></text>
+  <g id="Resume-CV-SVG" class="cls-1">
+    <rect class="cls-14" width="1702" height="1267"/>
+    <path id="Path_8" data-name="Path 8" class="cls-2" d="M0,0H842V175H0Z"/>
+    <g id="Group_1198" data-name="Group 1198" transform="translate(-40 738)">
+      <text id="_·_Designed_and_processing_of_schemes_for_sound_files_recorded_during_calls_by_credit_institutions_or_financial_companies._·_Sensitive_reports_and_analytics_for_users_and_operators_for_improving_the_quality_of_service_by_using_techniques_based_on_natural_" data-name="· Designed and processing of schemes for sound files recorded during calls by credit institutions or financial companies.
+· Sensitive reports and analytics for users (and operators) for improving the quality of service by using techniques based on natural " class="cls-3" transform="translate(180 354)"><tspan x="0" y="17">· </tspan><tspan class="cls-4" y="17">Designed and processing of schemes for sound files recorded during calls by credit </tspan><tspan class="cls-4" x="0" y="38">institutions or financial companies.</tspan><tspan x="0" y="59">· </tspan><tspan class="cls-4" y="59">Sensitive reports and analytics for users (and operators) for improving the quality of service </tspan><tspan class="cls-4" x="0" y="80">by using techniques based on natural language processing.</tspan></text>
+      <g id="Group_1177" data-name="Group 1177" transform="translate(180 300)">
+        <text id="Barranquilla_Atlántico" data-name="Barranquilla, Atlántico" class="cls-5" transform="translate(0 22)"><tspan x="0" y="17">Barranquilla, Atlántico</tspan></text>
+        <g id="Group_1176" data-name="Group 1176">
+          <text id="MadnessLab_-_Backend_Developer" data-name="MadnessLab - Backend Developer" class="cls-6"><tspan x="0" y="17">MadnessLab - Backend Developer</tspan></text>
+          <text id="_06_2019_-_12_2019" data-name="06/2019 - 12/2019" class="cls-5" transform="translate(535)"><tspan x="0" y="17">06/2019 - 12/2019</tspan></text>
+        </g>
       </g>
     </g>
-    <g id="Group_1173" data-name="Group 1173" transform="translate(-31 91)">
-      <text id="SKILLS" transform="translate(61 156.5)" fill="#06063c" font-size="18" font-family="Oswald-Regular, Oswald"><tspan x="0" y="0">SKILLS</tspan></text>
+    <g id="Group_1197" data-name="Group 1197" transform="translate(-40 584)">
+      <text id="_·_Designed_and_Analysis_of_experiments_for_an_instrument_that_measures_the_falsehood_or_credibility_of_stories_in_children_between_8_and_11_years_old_taking_into_account_linguistic_descriptors_used_by_them_from_a_neuropsychological_point_of_view_by_using_" data-name="· Designed and Analysis of experiments for an instrument that measures the falsehood or credibility of stories in children between 8 and 11 years old, taking into account linguistic descriptors used by them from a neuropsychological point of view by using " class="cls-3" transform="translate(180 355)"><tspan x="0" y="17">· </tspan><tspan class="cls-4" y="17">Designed and Analysis of experiments for an instrument that measures the falsehood or </tspan><tspan class="cls-4" x="0" y="38">credibility of stories in children between 8 and 11 years old, taking into account linguistic </tspan><tspan class="cls-4" x="0" y="59">descriptors used by them from a neuropsychological point of view by using techniques from </tspan><tspan class="cls-4" x="0" y="80">natural language processing and machine learning algorithms.</tspan></text>
+      <g id="Group_1177-2" data-name="Group 1177" transform="translate(180 300)">
+        <text id="Barranquilla_Atlántico-2" data-name="Barranquilla, Atlántico" class="cls-5" transform="translate(0 23)"><tspan x="0" y="17">Barranquilla, Atlántico</tspan></text>
+        <g id="Group_1176-2" data-name="Group 1176" transform="translate(0 1)">
+          <text id="Psychology_PhD_Thesis_Study_-_Data_Analyst" data-name="Psychology PhD Thesis Study - Data Analyst" class="cls-6"><tspan x="0" y="17">Psychology PhD Thesis Study - Data Analyst</tspan></text>
+          <text id="_06_2019_-_08_2019" data-name="06/2019 - 08/2019" class="cls-5" transform="translate(535)"><tspan x="0" y="17">06/2019 - 08/2019</tspan></text>
+        </g>
+      </g>
     </g>
-    <g id="Group_1172" data-name="Group 1172" transform="translate(109 59)">
+    <g id="Group_1196" data-name="Group 1196" transform="translate(-40 434)">
+      <text id="_·_Prepared_and_instructed_classes_for_digital_signal_processing_using_Matlab_and_Python_with_interface_design_applications_by_using_the_Qt_framework._·_Prepared_and_instructed_classes_for_digital_electronics_design_with_DC-AC_prototypes_using_passive_and_a" data-name="· Prepared and instructed classes for digital signal processing using Matlab and Python with interface design applications by using the Qt framework.
+· Prepared and instructed classes for digital electronics design with DC-AC prototypes using passive and a" class="cls-3" transform="translate(180 354)"><tspan x="0" y="17">· </tspan><tspan class="cls-4" y="17">Prepared and instructed classes for digital signal processing using Matlab and Python with </tspan><tspan class="cls-4" x="0" y="38">interface design applications by using the Qt framework.</tspan><tspan x="0" y="59">·</tspan><tspan class="cls-4" y="59" xml:space="preserve"> Prepared and instructed classes for digital electronics design with DC-AC prototypes using </tspan><tspan class="cls-4" x="0" y="80">passive and active electronics components and the Arduino uno microcontroller board.</tspan></text>
+      <g id="Group_1177-3" data-name="Group 1177" transform="translate(180 300)">
+        <text id="Barranquilla_Atlántico-3" data-name="Barranquilla, Atlántico" class="cls-5" transform="translate(0 22)"><tspan x="0" y="17">Barranquilla, Atlántico</tspan></text>
+        <g id="Group_1176-3" data-name="Group 1176">
+          <text id="Uninorte_-_Teaching_Assistant_Professor" data-name="Uninorte - Teaching Assistant Professor" class="cls-6"><tspan x="0" y="17">Uninorte - Teaching Assistant Professor</tspan></text>
+          <text id="_07_2019_-_07_2020" data-name="07/2019 - 07/2020" class="cls-5" transform="translate(535)"><tspan x="0" y="17">07/2019 - 07/2020</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="Group_1195" data-name="Group 1195" transform="translate(-40 86)">
+      <text id="_·_Authentication_dependency_injection_by_using_JWT_tokens_for_all_microservices_labeled_as_premium_services._·_Trip_planning_algorithm_by_combining_MongoDB_geospatial_features_with_constraints_functions_and_bayes_theorem_by_processing_over_thousands_of_rec" data-name="· Authentication dependency injection by using JWT tokens for all microservices labeled as premium services.
+· Trip planning algorithm by combining MongoDB geospatial features with constraints functions and bayes theorem by processing over thousands of rec" class="cls-3" transform="translate(180 354)"><tspan x="0" y="15">· Authentication dependency injection by using JWT tokens for all microservices labeled as </tspan><tspan x="0" y="34">premium services.</tspan><tspan x="0" y="53">· Trip planning algorithm by combining MongoDB geospatial features with constraints </tspan><tspan x="0" y="72">functions and bayes theorem by processing over thousands of records in real time with an </tspan><tspan x="0" y="91">average response time under 5s.</tspan><tspan x="0" y="110">· Shipment search system by using MongoDB aggregation with the inclusion of filters </tspan><tspan x="0" y="129">based on available features with an average response of 600ms.</tspan><tspan x="0" y="148">· Map layers based on kepler.gl layers for shipments visibility by using GeoJson schemas </tspan><tspan x="0" y="167">with the inclusion of filters based on available features.</tspan><tspan x="0" y="188">· </tspan><tspan class="cls-4" y="188">Optimized data structure in size by 69% by restructuring data schemas.</tspan><tspan x="0" y="209">·</tspan><tspan class="cls-4" y="209" xml:space="preserve"> Designed and deployed a recommendation model for matching shipments preferences by </tspan><tspan class="cls-4" x="0" y="230">using the features and user’s stated preference with an average response of 600ms.</tspan><tspan x="0" y="251">·</tspan><tspan class="cls-4" y="251" xml:space="preserve"> Designed and deployed a microservice for the company and users analytics with dynamic </tspan><tspan class="cls-4" x="0" y="272">filters by using regular expressions formatting.</tspan></text>
+      <g id="Group_1177-4" data-name="Group 1177" transform="translate(180 300)">
+        <text id="Barranquilla_Atlántico-4" data-name="Barranquilla, Atlántico" class="cls-5" transform="translate(0 22)"><tspan x="0" y="17">Barranquilla, Atlántico</tspan></text>
+        <g id="Group_1176-4" data-name="Group 1176">
+          <text id="DexFreight_-_Data_Engineer" data-name="DexFreight - Data Engineer" class="cls-6"><tspan x="0" y="17">DexFreight - Data Engineer</tspan></text>
+          <text id="_08_2019_-_Present" data-name="08/2019 - Present" class="cls-5" transform="translate(542)"><tspan x="0" y="17">08/2019 - Present</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="Group_1194" data-name="Group 1194" transform="translate(-32 86)">
+      <text id="EXPERIENCE_PROFESSIONAL" data-name="EXPERIENCE
+PROFESSIONAL" class="cls-7" transform="translate(62 321)"><tspan x="0" y="0">EXPERIENCE</tspan><tspan class="cls-8"><tspan x="0" y="20">PROFESSIONAL</tspan></tspan></text>
+    </g>
+    <g id="Group_1193" data-name="Group 1193" transform="translate(109 59)">
       <g id="Group_1168" data-name="Group 1168" transform="translate(31 167)">
-        <text id="Machine_Learning_" data-name="Machine Learning " font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="17">Machine Learning </tspan></text>
-        <text id="NumpPy_Pandas_Scikit-Learn_Keras_PyTorch_NLTK_Weka_Google_Colab." data-name="NumpPy, Pandas, Scikit-Learn, Keras, PyTorch, NLTK, Weka, Google Colab." transform="translate(141)" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">NumpPy, Pandas, Scikit-Learn, Keras, PyTorch, NLTK, Weka, Google Colab.</tspan></text>
+        <text id="Machine_Learning_" data-name="Machine Learning " class="cls-6"><tspan x="0" y="17">Machine Learning </tspan></text>
+        <text id="NumpPy_Pandas_Scikit-Learn_Keras_PyTorch_NLTK_Weka_Google_Colab." data-name="NumpPy, Pandas, Scikit-Learn, Keras, PyTorch, NLTK, Weka, Google Colab." class="cls-5" transform="translate(141)"><tspan x="0" y="17">NumpPy, Pandas, Scikit-Learn, Keras, PyTorch, NLTK, Weka, Google Colab.</tspan></text>
       </g>
       <g id="Group_1169" data-name="Group 1169" transform="translate(31 194)">
-        <text id="Databases" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="17">Databases</tspan></text>
-        <text id="MongoDB_PostgreSQL_MySQL_MariaDB." data-name="MongoDB, PostgreSQL, MySQL, MariaDB." transform="translate(141)" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">MongoDB, PostgreSQL, MySQL, MariaDB.</tspan></text>
+        <text id="Databases" class="cls-6"><tspan x="0" y="17">Databases</tspan></text>
+        <text id="MongoDB_PostgreSQL_MySQL_MariaDB." data-name="MongoDB, PostgreSQL, MySQL, MariaDB." class="cls-5" transform="translate(141)"><tspan x="0" y="17">MongoDB, PostgreSQL, MySQL, MariaDB.</tspan></text>
       </g>
       <g id="Group_1170" data-name="Group 1170" transform="translate(31 221)">
         <text id="Programming_and_Tools" data-name="Programming and
-Tools" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="17">Programming and</tspan><tspan x="0" y="38">Tools</tspan></text>
-        <text id="Python3_C_C_VHDL_Javascript_ES6_Node.js_Nuxt.js_Vue.js_HTML5_CSS3_Git_Docker_Google_Cloud_AWS_Bitbucket_Agile_Scrum_AdobeXD." data-name="Python3, C++, C#, VHDL, Javascript (ES6), Node.js, Nuxt.js, Vue.js, HTML5, CSS3, Git, Docker, Google Cloud, AWS, Bitbucket, Agile (Scrum), AdobeXD." transform="translate(141)" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">Python3, C++, C#, VHDL, Javascript (ES6), Node.js, Nuxt.js, Vue.js, HTML5, </tspan><tspan x="0" y="38">CSS3, Git, Docker, Google Cloud, AWS, Bitbucket, Agile (Scrum), AdobeXD.</tspan></text>
+Tools" class="cls-6"><tspan x="0" y="17">Programming and</tspan><tspan x="0" y="38">Tools</tspan></text>
+        <text id="Python3_C_C_VHDL_Javascript_ES6_Node.js_Nuxt.js_Vue.js_HTML5_CSS3_Git_Docker_Google_Cloud_AWS_Bitbucket_Agile_Scrum_AdobeXD." data-name="Python3, C++, C#, VHDL, Javascript (ES6), Node.js, Nuxt.js, Vue.js, HTML5, CSS3, Git, Docker, Google Cloud, AWS, Bitbucket, Agile (Scrum), AdobeXD." class="cls-5" transform="translate(141)"><tspan x="0" y="17">Python3, C++, C#, VHDL, Javascript (ES6), Node.js, Nuxt.js, Vue.js, HTML5, </tspan><tspan x="0" y="38">CSS3, Git, Docker, Google Cloud, AWS, Bitbucket, Agile (Scrum), AdobeXD.</tspan></text>
       </g>
       <g id="Group_1171" data-name="Group 1171" transform="translate(31 271)">
-        <text id="Languages" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="17">Languages</tspan></text>
-        <text id="Spanish_Native_and_English_ITEP-2018_." data-name="Spanish (Native) and English (ITEP-2018)." transform="translate(141)" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">Spanish (Native) and English (ITEP-2018).</tspan></text>
+        <text id="Languages" class="cls-6"><tspan x="0" y="17">Languages</tspan></text>
+        <text id="Spanish_Native_and_English_ITEP-2018_." data-name="Spanish (Native) and English (ITEP-2018)." class="cls-5" transform="translate(141)"><tspan x="0" y="17">Spanish (Native) and English (ITEP-2018).</tspan></text>
       </g>
     </g>
-    <g id="Group_1174" data-name="Group 1174" transform="translate(-32 86)">
-      <text id="EXPERIENCE_PROFESSIONAL" data-name="EXPERIENCE
-PROFESSIONAL" transform="translate(62 321)" fill="#06063c" font-size="18" font-family="Oswald-Regular, Oswald"><tspan x="0" y="0">EXPERIENCE</tspan><tspan font-family="Oswald-ExtraLight, Oswald" font-weight="200"><tspan x="0" y="20">PROFESSIONAL</tspan></tspan></text>
+    <g id="Group_1192" data-name="Group 1192" transform="translate(-31 91)">
+      <text id="SKILLS" class="cls-7" transform="translate(61 156.5)"><tspan x="0" y="0">SKILLS</tspan></text>
     </g>
-    <g id="Group_1178" data-name="Group 1178" transform="translate(-40 86)">
-      <text id="_·_Trip_planning_algorithm_by_combining_MongoDB_geospatial_features_with_constraints_functions_by_processing_over_thousands_of_records_on_average_with_an_overhead_of_5s_per_leg_and_average_response_time_under_10s._·_Shipment_search_system_by_using_MongoDB_a" data-name="· Trip planning algorithm by combining MongoDB geospatial features with constraints functions by processing over thousands of records on average with an overhead of 5s per leg and average response time under 10s.
-· Shipment search system by using MongoDB a" transform="translate(180 354)" font-size="16" font-family="Rubik-Regular, Rubik"><tspan x="0" y="15">· Trip planning algorithm by combining MongoDB geospatial features with constraints </tspan><tspan x="0" y="34">functions by processing over thousands of records on average with an overhead of 5s per </tspan><tspan x="0" y="53">leg and average response time under 10s.</tspan><tspan x="0" y="72">· Shipment search system by using MongoDB aggregation with the inclusion of filters </tspan><tspan x="0" y="91">based on available features with an average response of 600ms.</tspan><tspan x="0" y="110">· Map layers based on kepler.gl layers for shipments visibility by using GeoJson schemas </tspan><tspan x="0" y="129">with the inclusion of filters based on available features.</tspan><tspan x="0" y="150">· </tspan><tspan y="150" font-family="Roboto-Regular, Roboto">Optimized data structure in size by 69% by restructuring data schemas.</tspan><tspan x="0" y="171">·</tspan><tspan y="171" xml:space="preserve" font-family="Roboto-Regular, Roboto"> Designed and deployed a recommendation model for matching shipments preferences by </tspan><tspan x="0" y="192" font-family="Roboto-Regular, Roboto">using the features and user’s stated preference with an average response of 600ms.</tspan><tspan x="0" y="213">·</tspan><tspan y="213" xml:space="preserve" font-family="Roboto-Regular, Roboto"> Designed and deployed a microservice for the company and users analytics with dynamic </tspan><tspan x="0" y="234" font-family="Roboto-Regular, Roboto">filters by using regular expressions formatting.</tspan></text>
-      <g id="Group_1177" data-name="Group 1177" transform="translate(180 300)">
-        <text id="Barranquilla_Atlántico" data-name="Barranquilla, Atlántico" transform="translate(0 22)" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">Barranquilla, Atlántico</tspan></text>
-        <g id="Group_1176" data-name="Group 1176">
-          <text id="DexFreight_-_Data_Engineer" data-name="DexFreight - Data Engineer" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="17">DexFreight - Data Engineer</tspan></text>
-          <text id="_08_2019_-_Present" data-name="08/2019 - Present" transform="translate(542)" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">08/2019 - Present</tspan></text>
+    <g id="Header" transform="translate(-17 26)">
+      <text id="Mauro_Alejandro_Jimenez_Medina" data-name="Mauro Alejandro Jimenez Medina" class="cls-9" transform="translate(157 43)"><tspan x="0" y="0">Mauro Alejandro Jimenez Medina</tspan></text>
+      <text id="Electronics_Engineer_and_Data_Engineer" data-name="Electronics Engineer and Data Engineer" class="cls-10" transform="translate(157 75)"><tspan x="0" y="0">Electronics Engineer and Data Engineer</tspan></text>
+      <g id="Group_2" data-name="Group 2" transform="translate(157 107.453)">
+        <path id="ic_location_on_24px" class="cls-11" d="M10.25,2A5.246,5.246,0,0,0,5,7.25C5,11.188,10.25,17,10.25,17s5.25-5.812,5.25-9.75A5.246,5.246,0,0,0,10.25,2Zm0,7.125A1.875,1.875,0,1,1,12.125,7.25,1.876,1.876,0,0,1,10.25,9.125Z" transform="translate(-5 -1)"/>
+        <text id="Barranquilla_Colombia" data-name="Barranquilla, Colombia" class="cls-12" transform="translate(19 12.547)"><tspan x="0" y="0">Barranquilla, Colombia</tspan></text>
+      </g>
+      <g id="Group_3" data-name="Group 3" transform="translate(345 107.453)">
+        <path id="ic_local_phone_24px" class="cls-11" d="M5.916,9.275a12.2,12.2,0,0,0,5.309,5.309L13,12.812a.8.8,0,0,1,.822-.193,9.189,9.189,0,0,0,2.876.459.808.808,0,0,1,.806.806v2.811a.808.808,0,0,1-.806.806A13.693,13.693,0,0,1,3,3.806.808.808,0,0,1,3.806,3H6.625a.808.808,0,0,1,.806.806A9.151,9.151,0,0,0,7.89,6.681a.808.808,0,0,1-.2.822Z" transform="translate(-3 -2)"/>
+        <text id="_57_3159282712" data-name="+57 3159282712" class="cls-12" transform="translate(23 12.547)"><tspan x="0" y="0">+57 3159282712</tspan></text>
+      </g>
+      <g id="Group_4" data-name="Group 4" transform="translate(515 107.453)">
+        <path id="ic_markunread_24px" class="cls-11" d="M13.137,4h-9.9A1.236,1.236,0,0,0,2.006,5.237L2,12.662A1.241,1.241,0,0,0,3.237,13.9h9.9a1.241,1.241,0,0,0,1.237-1.237V5.237A1.241,1.241,0,0,0,13.137,4Zm0,2.475L8.187,9.569,3.237,6.475V5.237l4.95,3.094,4.95-3.094Z" transform="translate(-2)"/>
+        <text id="jmauro_uninorte.edu.co" data-name="jmauro@uninorte.edu.co" class="cls-12" transform="translate(20 12.547)"><tspan x="0" y="0">jmauro@uninorte.edu.co</tspan></text>
+      </g>
+    </g>
+    <g id="Group_1206" data-name="Group 1206" transform="translate(1000 1127)">
+      <g id="Group_1187" data-name="Group 1187" transform="translate(1)">
+        <g id="Group_1177-5" data-name="Group 1177">
+          <g id="Group_1176-5" data-name="Group 1176">
+            <text id="BSC_on_Electronics_Engineering" data-name="BSC on Electronics Engineering" class="cls-6"><tspan x="0" y="17">BSC on Electronics Engineering</tspan></text>
+            <text id="_06_2014_-_01_2019" data-name="06/2014 - 01/2019" class="cls-5" transform="translate(533)"><tspan x="0" y="17">06/2014 - 01/2019</tspan></text>
+          </g>
         </g>
       </g>
+      <text id="Universidad_del_Norte" data-name="Universidad del Norte" class="cls-5" transform="translate(1 37)"><tspan x="0" y="0">Universidad del Norte</tspan></text>
+      <text id="System_for_the_measurement_of_musical_similarity_using_expressive_markers_considering_the_acoustic_intensity_and_temporal_metrics." data-name="System for the measurement of musical similarity, using expressive markers considering the acoustic intensity and temporal metrics." class="cls-5" transform="translate(0 51)"><tspan x="0" y="17">System for the measurement of musical similarity, using expressive markers considering the </tspan><tspan x="0" y="38">acoustic intensity and temporal metrics.</tspan></text>
     </g>
-    <g id="Group_1179" data-name="Group 1179" transform="translate(-40 404)">
-      <text id="_·_Prepared_and_instructed_classes_for_digital_signal_processing_using_Matlab_and_Python_with_interface_design_applications_by_using_the_Qt_framework._·_Prepared_and_instructed_classes_for_digital_electronics_design_with_DC-AC_prototypes_using_passive_and_a" data-name="· Prepared and instructed classes for digital signal processing using Matlab and Python with interface design applications by using the Qt framework.
-· Prepared and instructed classes for digital electronics design with DC-AC prototypes using passive and a" transform="translate(180 354)" font-size="16" font-family="Rubik-Regular, Rubik"><tspan x="0" y="17">· </tspan><tspan y="17" font-family="Roboto-Regular, Roboto">Prepared and instructed classes for digital signal processing using Matlab and Python with </tspan><tspan x="0" y="38" font-family="Roboto-Regular, Roboto">interface design applications by using the Qt framework.</tspan><tspan x="0" y="59">·</tspan><tspan y="59" xml:space="preserve" font-family="Roboto-Regular, Roboto"> Prepared and instructed classes for digital electronics design with DC-AC prototypes using </tspan><tspan x="0" y="80" font-family="Roboto-Regular, Roboto">passive and active electronics components and the Arduino uno microcontroller board.</tspan></text>
-      <g id="Group_1177-2" data-name="Group 1177" transform="translate(180 300)">
-        <text id="Barranquilla_Atlántico-2" data-name="Barranquilla, Atlántico" transform="translate(0 22)" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">Barranquilla, Atlántico</tspan></text>
-        <g id="Group_1176-2" data-name="Group 1176">
-          <text id="Uninorte_-_Teaching_Assistant_Professor" data-name="Uninorte - Teaching Assistant Professor" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="17">Uninorte - Teaching Assistant Professor</tspan></text>
-          <text id="_07_2019_-_07_2020" data-name="07/2019 - 07/2020" transform="translate(535)" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">07/2019 - 07/2020</tspan></text>
+    <g id="Group_1207" data-name="Group 1207" transform="translate(1000 1019)">
+      <g id="Group_1187-2" data-name="Group 1187" transform="translate(1)">
+        <g id="Group_1177-6" data-name="Group 1177">
+          <g id="Group_1176-6" data-name="Group 1176">
+            <text id="MSC_on_Electronics_Engineering" data-name="MSC on Electronics Engineering" class="cls-6"><tspan x="0" y="17">MSC on Electronics Engineering</tspan></text>
+            <text id="_06_2019_-_12_2020" data-name="06/2019 - 12/2020" class="cls-5" transform="translate(533)"><tspan x="0" y="17">06/2019 - 12/2020</tspan></text>
+          </g>
         </g>
       </g>
+      <text id="Universidad_del_Norte-2" data-name="Universidad del Norte" class="cls-5" transform="translate(1 37)"><tspan x="0" y="0">Universidad del Norte</tspan></text>
+      <text id="Identification_of_expressive_descriptors_for_style_extraction_in_music_analysis_using_linear_and_non_linear_models._" data-name="Identification of expressive descriptors for style extraction in music analysis using 
+linear and non linear models.   " class="cls-5" transform="translate(0 51)"><tspan x="0" y="17">Identification of expressive descriptors for style extraction in music analysis using </tspan><tspan x="0" y="38" xml:space="preserve">linear and non linear models.   </tspan></text>
     </g>
-    <g id="Group_1180" data-name="Group 1180" transform="translate(-40 560)">
-      <text id="_·_Designed_and_Analysis_of_experiments_for_an_instrument_that_measures_the_falsehood_or_credibility_of_stories_in_children_between_8_and_11_years_old_taking_into_account_linguistic_descriptors_used_by_them_from_a_neuropsychological_point_of_view_by_using_" data-name="· Designed and Analysis of experiments for an instrument that measures the falsehood or credibility of stories in children between 8 and 11 years old, taking into account linguistic descriptors used by them from a neuropsychological point of view by using " transform="translate(180 354)" font-size="16" font-family="Rubik-Regular, Rubik"><tspan x="0" y="17">· </tspan><tspan y="17" font-family="Roboto-Regular, Roboto">Designed and Analysis of experiments for an instrument that measures the falsehood or </tspan><tspan x="0" y="38" font-family="Roboto-Regular, Roboto">credibility of stories in children between 8 and 11 years old, taking into account linguistic </tspan><tspan x="0" y="59" font-family="Roboto-Regular, Roboto">descriptors used by them from a neuropsychological point of view by using techniques from </tspan><tspan x="0" y="80" font-family="Roboto-Regular, Roboto">natural language processing and machine learning algorithms.</tspan></text>
-      <g id="Group_1177-3" data-name="Group 1177" transform="translate(180 300)">
-        <text id="Barranquilla_Atlántico-3" data-name="Barranquilla, Atlántico" transform="translate(0 22)" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">Barranquilla, Atlántico</tspan></text>
-        <g id="Group_1176-3" data-name="Group 1176">
-          <text id="Psychology_PhD_Thesis_Study_-_Data_Analyst" data-name="Psychology PhD Thesis Study - Data Analyst" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="17">Psychology PhD Thesis Study - Data Analyst</tspan></text>
-          <text id="_06_2019_-_08_2019" data-name="06/2019 - 08/2019" transform="translate(535)" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">06/2019 - 08/2019</tspan></text>
-        </g>
-      </g>
+    <g id="Group_1200" data-name="Group 1200" transform="translate(829 719)">
+      <text id="EDUCATION" class="cls-7" transform="translate(62 321)"><tspan x="0" y="0">EDUCATION</tspan></text>
     </g>
-    <g id="Group_1181" data-name="Group 1181" transform="translate(-40 718)">
-      <text id="_·_Designed_and_processing_of_schemes_for_sound_files_recorded_during_calls_by_credit_institutions_or_financial_companies._·_Sensitive_reports_and_analytics_for_users_and_operators_for_improving_the_quality_of_service_by_using_techniques_based_on_natural_" data-name="· Designed and processing of schemes for sound files recorded during calls by credit institutions or financial companies.
-· Sensitive reports and analytics for users (and operators) for improving the quality of service by using techniques based on natural " transform="translate(180 354)" font-size="16" font-family="Rubik-Regular, Rubik"><tspan x="0" y="17">· </tspan><tspan y="17" font-family="Roboto-Regular, Roboto">Designed and processing of schemes for sound files recorded during calls by credit </tspan><tspan x="0" y="38" font-family="Roboto-Regular, Roboto">institutions or financial companies.</tspan><tspan x="0" y="59">· </tspan><tspan y="59" font-family="Roboto-Regular, Roboto">Sensitive reports and analytics for users (and operators) for improving the quality of service </tspan><tspan x="0" y="80" font-family="Roboto-Regular, Roboto">by using techniques based on natural language processing.</tspan></text>
-      <g id="Group_1177-4" data-name="Group 1177" transform="translate(180 300)">
-        <text id="Barranquilla_Atlántico-4" data-name="Barranquilla, Atlántico" transform="translate(0 22)" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">Barranquilla, Atlántico</tspan></text>
-        <g id="Group_1176-4" data-name="Group 1176">
-          <text id="MadnessLab_-_Backend_Developer" data-name="MadnessLab - Backend Developer" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="17">MadnessLab - Backend Developer</tspan></text>
-          <text id="_06_2019_-_12_2019" data-name="06/2019 - 12/2019" transform="translate(535)" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">06/2019 - 12/2019</tspan></text>
-        </g>
-      </g>
-    </g>
-    <g id="Group_1173-2" data-name="Group 1173" transform="translate(819 530)">
-      <text id="PUBLICATIONS" transform="translate(61 156.5)" fill="#06063c" font-size="18" font-family="Oswald-Regular, Oswald"><tspan x="0" y="0">PUBLICATIONS</tspan></text>
-    </g>
-    <g id="Group_1175" data-name="Group 1175" transform="translate(818 719)">
-      <text id="EDUCATION" transform="translate(62 321)" fill="#06063c" font-size="18" font-family="Oswald-Regular, Oswald"><tspan x="0" y="0">EDUCATION</tspan></text>
-    </g>
-    <text id="COURSES_CERTIFICATES" data-name="COURSES &amp; 
-CERTIFICATES" transform="translate(880 802.5)" fill="#06063c" font-size="18" font-family="Oswald-Regular, Oswald"><tspan x="0" y="0">COURSES &amp; </tspan><tspan x="0" y="26">CERTIFICATES</tspan></text>
-    <g id="Group_1182" data-name="Group 1182" transform="translate(809 121)">
-      <text id="_·_Designed_and_developed_a_web_application_integrated_to_a_device_compatible_with_applications_for_the_internet_of_things_focused_on_productivity_monitoring_and_fleet_security_with_the_aim_of_tracking_and_monitoring_trucks._·_Designed_a_UI_for_visualizing" data-name="· Designed and developed a web application integrated to a device compatible with applications for the internet of things focused on productivity, monitoring and fleet security with the aim of tracking and monitoring trucks.
-· Designed a UI for visualizing" transform="translate(180 354)" font-size="16" font-family="Rubik-Regular, Rubik"><tspan x="0" y="17">· </tspan><tspan y="17" font-family="Roboto-Regular, Roboto">Designed and developed a web application integrated to a device compatible with </tspan><tspan x="0" y="38" font-family="Roboto-Regular, Roboto">applications for the internet of things focused on productivity, monitoring and fleet security </tspan><tspan x="0" y="59" font-family="Roboto-Regular, Roboto">with the aim of tracking and monitoring trucks.</tspan><tspan x="0" y="80">· </tspan><tspan y="80" font-family="Roboto-Regular, Roboto">Designed a UI for visualizing the route in transit to create a historical and real-time tracking </tspan><tspan x="0" y="101" font-family="Roboto-Regular, Roboto">with and average response of 200ms, by using Javascript and HTML5 and CSS3. </tspan><tspan x="0" y="122">· </tspan><tspan y="122" font-family="Roboto-Regular, Roboto">Deployed a website using Amazon Elastic Cloud Computing service (EC2) for the server and </tspan><tspan x="0" y="143" font-family="Roboto-Regular, Roboto">the Amazon Relational Database Service (RDS) for storage. </tspan></text>
-      <g id="Group_1177-5" data-name="Group 1177" transform="translate(180 300)">
-        <text id="Barranquilla_Atlántico-5" data-name="Barranquilla, Atlántico" transform="translate(0 22)" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">Barranquilla, Atlántico</tspan></text>
-        <g id="Group_1176-5" data-name="Group 1176">
-          <text id="Trucking_Tracking_-_Full-Stack_Developer" data-name="Trucking Tracking - Full-Stack Developer" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="17">Trucking Tracking - Full-Stack Developer</tspan></text>
-          <text id="_01_2018_-_06_2018" data-name="01/2018 - 06/2018" transform="translate(535)" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">01/2018 - 06/2018</tspan></text>
-        </g>
-      </g>
-    </g>
-    <g id="Group_1181-2" data-name="Group 1181" transform="translate(809 365)">
-      <text id="Obstacles_Speed_and_Spreading_Factor:_Insights_in_LoRa_Mobile_Performance._" data-name="Obstacles, Speed and Spreading Factor: Insights in LoRa Mobile Performance.
-" transform="translate(180 352)" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">Obstacles, Speed and Spreading Factor: Insights in LoRa Mobile Performance.</tspan></text>
-      <g id="Group_1177-6" data-name="Group 1177" transform="translate(180 300)">
-        <g id="Group_1176-6" data-name="Group 1176">
-          <text id="International_Journal_on_Communications_Antenna_and_Propagation_IRECAP_" data-name="International Journal on Communications Antenna and Propagation (IRECAP)" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="17">International Journal on Communications Antenna and </tspan><tspan x="0" y="38">Propagation (IRECAP)</tspan></text>
-          <text id="_06_2019_-_12_2019-2" data-name="06/2019 - 12/2019" transform="translate(535)" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">06/2019 - 12/2019</tspan></text>
-        </g>
-      </g>
-    </g>
-    <g id="Group_1184" data-name="Group 1184" transform="translate(989 781)">
-      <text id="_·_API_Designer._·_API_Security_Architect._·_API_Product_Manager." data-name="· API Designer.
-· API Security Architect.
-· API Product Manager." transform="translate(0 27)" font-size="16" font-family="Rubik-Regular, Rubik"><tspan x="0" y="17">· </tspan><tspan y="17" font-family="Roboto-Regular, Roboto">API Designer.</tspan><tspan x="0" y="38">·</tspan><tspan y="38" xml:space="preserve" font-family="Roboto-Regular, Roboto"> API Security Architect.</tspan><tspan x="0" y="59">·</tspan><tspan y="59" xml:space="preserve" font-family="Roboto-Regular, Roboto"> API Product Manager.</tspan></text>
+    <g id="Group_1205" data-name="Group 1205" transform="translate(1000 930)">
+      <text id="_·_CEFR_Level_B2._" data-name="· CEFR Level B2.
+" class="cls-3" transform="translate(0 27)"><tspan x="0" y="17">· </tspan><tspan class="cls-4" y="17">CEFR Level B2.</tspan></text>
       <g id="Group_1177-7" data-name="Group 1177" transform="translate(0)">
         <g id="Group_1176-7" data-name="Group 1176">
-          <text id="API_Academy_Certification_Program" data-name="API Academy Certification Program" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="17">API Academy Certification Program</tspan></text>
-          <text id="_08_2020_-_05_2021" data-name="08/2020 - 05/2021" transform="translate(534)" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">08/2020 - 05/2021</tspan></text>
+          <text id="International_Test_of_English_Proficiency_ITEP" data-name="International Test of English Proficiency ITEP" class="cls-6"><tspan x="0" y="17">International Test of English Proficiency ITEP</tspan></text>
+          <text id="_04_2018_-_06_2018" data-name="04/2018 - 06/2018" class="cls-5" transform="translate(534)"><tspan x="0" y="17">04/2018 - 06/2018</tspan></text>
         </g>
       </g>
     </g>
-    <g id="Group_1185" data-name="Group 1185" transform="translate(990 877)">
+    <g id="Group_1204" data-name="Group 1204" transform="translate(1001 877)">
       <text id="_·_CS231n._" data-name="· CS231n.
-" transform="translate(0 27)" font-size="16" font-family="Rubik-Regular, Rubik"><tspan x="0" y="17">· </tspan><tspan y="17" font-family="Roboto-Regular, Roboto">CS231n.</tspan></text>
+" class="cls-3" transform="translate(0 27)"><tspan x="0" y="17">· </tspan><tspan class="cls-4" y="17">CS231n.</tspan></text>
       <g id="Group_1177-8" data-name="Group 1177" transform="translate(0)">
         <g id="Group_1176-8" data-name="Group 1176">
-          <text id="Convolutional_Networks_for_Visual_Recognition" data-name="Convolutional Networks for Visual Recognition" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="17">Convolutional Networks for Visual Recognition</tspan></text>
-          <text id="_06_2018_-_08_2018" data-name="06/2018 - 08/2018" transform="translate(534)" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">06/2018 - 08/2018</tspan></text>
+          <text id="Convolutional_Networks_for_Visual_Recognition" data-name="Convolutional Networks for Visual Recognition" class="cls-6"><tspan x="0" y="17">Convolutional Networks for Visual Recognition</tspan></text>
+          <text id="_06_2018_-_08_2018" data-name="06/2018 - 08/2018" class="cls-5" transform="translate(534)"><tspan x="0" y="17">06/2018 - 08/2018</tspan></text>
         </g>
       </g>
     </g>
-    <g id="Group_1186" data-name="Group 1186" transform="translate(989 930)">
-      <text id="_·_CEFR_Level_B2._" data-name="· CEFR Level B2.
-" transform="translate(0 27)" font-size="16" font-family="Rubik-Regular, Rubik"><tspan x="0" y="17">· </tspan><tspan y="17" font-family="Roboto-Regular, Roboto">CEFR Level B2.</tspan></text>
+    <g id="Group_1203" data-name="Group 1203" transform="translate(1000 781)">
+      <text id="_·_API_Designer._·_API_Security_Architect._·_API_Product_Manager." data-name="· API Designer.
+· API Security Architect.
+· API Product Manager." class="cls-3" transform="translate(0 27)"><tspan x="0" y="17">· </tspan><tspan class="cls-4" y="17">API Designer.</tspan><tspan x="0" y="38">·</tspan><tspan class="cls-4" y="38" xml:space="preserve"> API Security Architect.</tspan><tspan x="0" y="59">·</tspan><tspan class="cls-4" y="59" xml:space="preserve"> API Product Manager.</tspan></text>
       <g id="Group_1177-9" data-name="Group 1177" transform="translate(0)">
         <g id="Group_1176-9" data-name="Group 1176">
-          <text id="International_Test_of_English_Proficiency_ITEP" data-name="International Test of English Proficiency ITEP" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="17">International Test of English Proficiency ITEP</tspan></text>
-          <text id="_04_2018_-_06_2018" data-name="04/2018 - 06/2018" transform="translate(534)" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">04/2018 - 06/2018</tspan></text>
+          <text id="API_Academy_Certification_Program" data-name="API Academy Certification Program" class="cls-6"><tspan x="0" y="17">API Academy Certification Program</tspan></text>
+          <text id="_08_2020_-_05_2021" data-name="08/2020 - 05/2021" class="cls-5" transform="translate(534)"><tspan x="0" y="17">08/2020 - 05/2021</tspan></text>
         </g>
       </g>
     </g>
-    <line id="Line_5" data-name="Line 5" x2="785" transform="translate(879.5 644.5)" fill="none"/>
-    <g id="Group_1189" data-name="Group 1189" transform="translate(989 1127)">
-      <g id="Group_1187" data-name="Group 1187" transform="translate(1)">
-        <g id="Group_1177-10" data-name="Group 1177">
-          <g id="Group_1176-10" data-name="Group 1176">
-            <text id="BSC_on_Electronics_Engineering" data-name="BSC on Electronics Engineering" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="17">BSC on Electronics Engineering</tspan></text>
-            <text id="_06_2014_-_01_2019" data-name="06/2014 - 01/2019" transform="translate(533)" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">06/2014 - 01/2019</tspan></text>
-          </g>
+    <text id="COURSES_CERTIFICATES" data-name="COURSES &amp; 
+CERTIFICATES" class="cls-7" transform="translate(891 802.5)"><tspan x="0" y="0">COURSES &amp; </tspan><tspan x="0" y="26">CERTIFICATES</tspan></text>
+    <g id="Group_1202" data-name="Group 1202" transform="translate(820 365)">
+      <text id="Obstacles_Speed_and_Spreading_Factor:_Insights_in_LoRa_Mobile_Performance._" data-name="Obstacles, Speed and Spreading Factor: Insights in LoRa Mobile Performance.
+" class="cls-5" transform="translate(180 352)"><tspan x="0" y="17">Obstacles, Speed and Spreading Factor: Insights in LoRa Mobile Performance.</tspan></text>
+      <g id="Group_1177-10" data-name="Group 1177" transform="translate(180 300)">
+        <g id="Group_1176-10" data-name="Group 1176">
+          <text id="International_Journal_on_Communications_Antenna_and_Propagation_IRECAP_" data-name="International Journal on Communications Antenna and Propagation (IRECAP)" class="cls-6"><tspan x="0" y="17">International Journal on Communications Antenna and </tspan><tspan x="0" y="38">Propagation (IRECAP)</tspan></text>
+          <text id="_06_2019_-_12_2019-2" data-name="06/2019 - 12/2019" class="cls-5" transform="translate(535)"><tspan x="0" y="17">06/2019 - 12/2019</tspan></text>
         </g>
       </g>
-      <text id="Universidad_del_Norte" data-name="Universidad del Norte" transform="translate(1 37)" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Universidad del Norte</tspan></text>
-      <text id="System_for_the_measurement_of_musical_similarity_using_expressive_markers_considering_the_acoustic_intensity_and_temporal_metrics." data-name="System for the measurement of musical similarity, using expressive markers considering the acoustic intensity and temporal metrics." transform="translate(0 51)" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">System for the measurement of musical similarity, using expressive markers considering the </tspan><tspan x="0" y="38">acoustic intensity and temporal metrics.</tspan></text>
     </g>
-    <g id="Group_1190" data-name="Group 1190" transform="translate(989 1019)">
-      <g id="Group_1187-2" data-name="Group 1187" transform="translate(1)">
-        <g id="Group_1177-11" data-name="Group 1177">
-          <g id="Group_1176-11" data-name="Group 1176">
-            <text id="MSC_on_Electronics_Engineering" data-name="MSC on Electronics Engineering" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="17">MSC on Electronics Engineering</tspan></text>
-            <text id="_06_2019_-_12_2020" data-name="06/2019 - 12/2020" transform="translate(533)" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">06/2019 - 12/2020</tspan></text>
-          </g>
+    <g id="Group_1199" data-name="Group 1199" transform="translate(830 530)">
+      <text id="PUBLICATIONS" class="cls-7" transform="translate(61 156.5)"><tspan x="0" y="0">PUBLICATIONS</tspan></text>
+    </g>
+    <line id="Line_7" data-name="Line 7" class="cls-13" x2="785" transform="translate(890.5 644.5)"/>
+    <g id="Group_1201" data-name="Group 1201" transform="translate(820 199)">
+      <text id="_·_Designed_a_UI_for_visualizing_the_route_in_transit_to_create_a_historical_and_real-time_tracking_with_and_average_response_of_200ms_by_using_Javascript_and_HTML5_and_CSS3._·_Deployed_the_web_application_using_Amazon_Elastic_Cloud_Computing_service_EC2" data-name="· Designed a UI for visualizing the route in transit to create a historical and real-time tracking with and average response of 200ms, by using Javascript and HTML5 and CSS3. 
+· Deployed the web application using Amazon Elastic Cloud Computing service (EC2" class="cls-3" transform="translate(180 354)"><tspan x="0" y="17">· </tspan><tspan class="cls-4" y="17">Designed a UI for visualizing the route in transit to create a historical and real-time tracking </tspan><tspan class="cls-4" x="0" y="38">with and average response of 200ms, by using Javascript and HTML5 and CSS3. </tspan><tspan x="0" y="59">· </tspan><tspan class="cls-4" y="59">Deployed the web application using Amazon Elastic Cloud Computing service (EC2) for the </tspan><tspan class="cls-4" x="0" y="80">server and the Amazon Relational Database Service (RDS) for storage. </tspan></text>
+      <g id="Group_1177-11" data-name="Group 1177" transform="translate(180 300)">
+        <text id="Barranquilla_Atlántico-5" data-name="Barranquilla, Atlántico" class="cls-5" transform="translate(0 22)"><tspan x="0" y="17">Barranquilla, Atlántico</tspan></text>
+        <g id="Group_1176-11" data-name="Group 1176">
+          <text id="Trucking_Tracking_-_Full-Stack_Developer" data-name="Trucking Tracking - Full-Stack Developer" class="cls-6"><tspan x="0" y="17">Trucking Tracking - Full-Stack Developer</tspan></text>
+          <text id="_01_2018_-_06_2018" data-name="01/2018 - 06/2018" class="cls-5" transform="translate(535)"><tspan x="0" y="17">01/2018 - 06/2018</tspan></text>
         </g>
       </g>
-      <text id="Universidad_del_Norte-2" data-name="Universidad del Norte" transform="translate(1 37)" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Universidad del Norte</tspan></text>
-      <text id="Identification_of_expressive_descriptors_for_style_extraction_in_music_analysis_using_linear_and_non_linear_models._" data-name="Identification of expressive descriptors for style extraction in music analysis using 
-linear and non linear models.   " transform="translate(0 51)" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">Identification of expressive descriptors for style extraction in music analysis using </tspan><tspan x="0" y="38" xml:space="preserve">linear and non linear models.   </tspan></text>
     </g>
-    <g id="Group_1182-2" data-name="Group 1182" transform="translate(808 -53)">
+    <g id="Group_1208" data-name="Group 1208" transform="translate(819 28)">
       <text id="_·_Designed_and_development_the_UI_for_a_mobile_application_on_the_Automatic_Identification_System_AIS_used_by_ships_and_vessel_traffic_services._·_The_time_latency_of_the_application_was_around_5s_for_transmitting_data_in_real_time._·_The_AIVDM_AIVDO" data-name="· Designed and development the UI for a mobile application on the Automatic Identification System (AIS) used by ships and vessel traffic services. 
 · The time latency of the application was around 5s for transmitting data in real time. 
-· The AIVDM / AIVDO" transform="translate(180 354)" font-size="16" font-family="Rubik-Regular, Rubik"><tspan x="0" y="17">· </tspan><tspan y="17" font-family="Roboto-Regular, Roboto">Designed and development the UI for a mobile application on the Automatic Identification </tspan><tspan x="0" y="38" font-family="Roboto-Regular, Roboto">System (AIS) used by ships and vessel traffic services. </tspan><tspan x="0" y="59">· </tspan><tspan y="59" font-family="Roboto-Regular, Roboto">The time latency of the application was around 5s for transmitting data in real time. </tspan><tspan x="0" y="80">· </tspan><tspan y="80" font-family="Roboto-Regular, Roboto">The AIVDM / AIVDO communication protocol was used to collect and integrate information </tspan><tspan x="0" y="101" font-family="Roboto-Regular, Roboto">from publicly available sources and vessels using AIS protocol.</tspan></text>
+· The AIVDM / AIVDO" class="cls-3" transform="translate(180 354)"><tspan x="0" y="17">· </tspan><tspan class="cls-4" y="17">Designed and development the UI for a mobile application on the Automatic Identification </tspan><tspan class="cls-4" x="0" y="38">System (AIS) used by ships and vessel traffic services. </tspan><tspan x="0" y="59">· </tspan><tspan class="cls-4" y="59">The time latency of the application was around 5s for transmitting data in real time. </tspan><tspan x="0" y="80">· </tspan><tspan class="cls-4" y="80">The AIVDM / AIVDO communication protocol was used to collect and integrate information </tspan><tspan class="cls-4" x="0" y="101">from publicly available sources and vessels using AIS protocol.</tspan></text>
       <g id="Group_1177-12" data-name="Group 1177" transform="translate(180 300)">
-        <text id="Barranquilla_Atlántico-6" data-name="Barranquilla, Atlántico" transform="translate(0 22)" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">Barranquilla, Atlántico</tspan></text>
+        <text id="Barranquilla_Atlántico-6" data-name="Barranquilla, Atlántico" class="cls-5" transform="translate(0 22)"><tspan x="0" y="17">Barranquilla, Atlántico</tspan></text>
         <g id="Group_1176-12" data-name="Group 1176">
-          <text id="AISMAP_-_Frontend_Developer" data-name="AISMAP - Frontend Developer" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="17">AISMAP - Frontend Developer</tspan></text>
-          <text id="_01_2018_-_06_2018-2" data-name="01/2018 - 06/2018" transform="translate(535)" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">01/2018 - 06/2018</tspan></text>
+          <text id="AISMAP_-_Frontend_Developer" data-name="AISMAP - Frontend Developer" class="cls-6"><tspan x="0" y="17">AISMAP - Frontend Developer</tspan></text>
+          <text id="_01_2018_-_06_2018-2" data-name="01/2018 - 06/2018" class="cls-5" transform="translate(535)"><tspan x="0" y="17">01/2018 - 06/2018</tspan></text>
         </g>
       </g>
     </g>
-    <g id="Group_1183" data-name="Group 1183" transform="translate(988 51)">
+    <g id="Group_1209" data-name="Group 1209" transform="translate(999 135)">
       <text id="_·_Designed_and_developed_a_prototype_related_to_Autonomous_Surface_Boats._The_prototype_used_a_GPS_receiver_for_measuring_the_position_of_the_boat_compass_and_other_sensors_and_actuators_for_navigation._·_Additionally_a_search_algorithm_was_developed_usi" data-name="· Designed and developed a prototype related to Autonomous Surface Boats. The prototype used a GPS receiver for measuring the position of the boat, compass and other sensors and actuators for navigation.
-· Additionally, a search algorithm was developed usi" transform="translate(0 54)" font-size="16" font-family="Rubik-Regular, Rubik"><tspan x="0" y="17">· </tspan><tspan y="17" font-family="Roboto-Regular, Roboto">Designed and developed a prototype related to Autonomous Surface Boats. The prototype </tspan><tspan x="0" y="38" font-family="Roboto-Regular, Roboto">used a GPS receiver for measuring the position of the boat, compass and other sensors and </tspan><tspan x="0" y="59" font-family="Roboto-Regular, Roboto">actuators for navigation.</tspan><tspan x="0" y="80">· </tspan><tspan y="80" font-family="Roboto-Regular, Roboto">Additionally, a search algorithm was developed using spherical geometry for the navigation. </tspan><tspan x="0" y="101" font-family="Roboto-Regular, Roboto">The results showed an error of 2 meters, leading to an acceptable error due to low-cost </tspan><tspan x="0" y="122" font-family="Roboto-Regular, Roboto">hardware limitations.</tspan></text>
+· Additionally, a search algorithm was developed usi" class="cls-3" transform="translate(0 54)"><tspan x="0" y="17">· </tspan><tspan class="cls-4" y="17">Designed and developed a prototype related to Autonomous Surface Boats. The prototype </tspan><tspan class="cls-4" x="0" y="38">used a GPS receiver for measuring the position of the boat, compass and other sensors and </tspan><tspan class="cls-4" x="0" y="59">actuators for navigation.</tspan><tspan x="0" y="80">· </tspan><tspan class="cls-4" y="80">Additionally, a search algorithm was developed using spherical geometry for the navigation. </tspan><tspan class="cls-4" x="0" y="101">The results showed an error of 2 meters, leading to an acceptable error due to low-cost </tspan><tspan class="cls-4" x="0" y="122">hardware limitations.</tspan></text>
       <g id="Group_1177-13" data-name="Group 1177">
-        <text id="Barranquilla_Atlántico-7" data-name="Barranquilla, Atlántico" transform="translate(0 22)" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">Barranquilla, Atlántico</tspan></text>
+        <text id="Barranquilla_Atlántico-7" data-name="Barranquilla, Atlántico" class="cls-5" transform="translate(0 22)"><tspan x="0" y="17">Barranquilla, Atlántico</tspan></text>
         <g id="Group_1176-13" data-name="Group 1176">
-          <text id="Autonomous_Surface_Vessel_-_Backend_Developer" data-name="Autonomous Surface Vessel - Backend Developer" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="17">Autonomous Surface Vessel - Backend Developer</tspan></text>
-          <text id="_01_2018_-_12_2018" data-name="01/2018 - 12/2018" transform="translate(535)" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">01/2018 - 12/2018</tspan></text>
+          <text id="Autonomous_Surface_Vessel_-_Backend_Developer" data-name="Autonomous Surface Vessel - Backend Developer" class="cls-6"><tspan x="0" y="17">Autonomous Surface Vessel - Backend Developer</tspan></text>
+          <text id="_01_2018_-_12_2018" data-name="01/2018 - 12/2018" class="cls-5" transform="translate(535)"><tspan x="0" y="17">01/2018 - 12/2018</tspan></text>
         </g>
       </g>
     </g>
-    <g id="Group_1175-2" data-name="Group 1175" transform="translate(880 51)">
+    <g id="Group_1211" data-name="Group 1211" transform="translate(999 26)">
+      <text id="_·_Tutoring_and_subsidiary_in_Python_for_the_thesis_modeling_of_a_system_environment_in_the_framework_of_deeper_entropy_rise_SEA-QT_using_random_matrixes." data-name="· Tutoring and subsidiary in Python for the thesis modeling of a system/environment in the framework of deeper entropy rise (SEA-QT) using random matrixes." class="cls-3" transform="translate(0 54)"><tspan x="0" y="15">· Tutoring and subsidiary in Python for the thesis modeling of a system/environment in the </tspan><tspan x="0" y="36">framework of deeper entropy rise (SEA-QT) using random matrixes</tspan><tspan class="cls-4" y="36">.</tspan></text>
+      <g id="Group_1177-14" data-name="Group 1177">
+        <text id="Remote_Mexico" data-name="Remote, Mexico" class="cls-5" transform="translate(0 22)"><tspan x="0" y="17">Remote, Mexico</tspan></text>
+        <g id="Group_1176-14" data-name="Group 1176">
+          <text id="Quatum_Computing_Framework_-_Python_Developer" data-name="Quatum Computing Framework - Python Developer" class="cls-6"><tspan x="0" y="17">Quatum Computing Framework - Python Developer</tspan></text>
+          <text id="_08_2021_-_10_2021" data-name="08/2021 - 10/2021" class="cls-5" transform="translate(535)"><tspan x="0" y="17">08/2021 - 10/2021</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="Group_1210" data-name="Group 1210" transform="translate(891 26)">
       <text id="EXPERIENCE_ACADEMIC" data-name="EXPERIENCE
-ACADEMIC" transform="translate(0 21)" fill="#06063c" font-size="18" font-family="Oswald-Regular, Oswald"><tspan x="0" y="0">EXPERIENCE</tspan><tspan font-family="Oswald-ExtraLight, Oswald" font-weight="200"><tspan x="0" y="20">ACADEMIC</tspan></tspan></text>
+ACADEMIC" class="cls-7" transform="translate(0 21)"><tspan x="0" y="0">EXPERIENCE</tspan><tspan class="cls-8"><tspan x="0" y="20">ACADEMIC</tspan></tspan></text>
     </g>
   </g>
 </svg>
