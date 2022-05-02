@@ -43,7 +43,7 @@
 
 <details>
   <summary>
-  <b style="font-size:26px;font-family:'Segoe UI'"> My Resume </b>
+  <p style="font-size:26px;font-family:'Segoe UI'"> My Resume </p>
   </summary>
   <img align="left" src="https://mauroalejandrojm.vercel.app/svg/resume.svg" width="840"/>
 </details>
@@ -52,7 +52,7 @@
 
 <details>
   <summary>
-  <b style="font-size:26px;font-family:'Segoe UI'"> Github Basic Statistics </b>
+  <p style="font-size:26px;font-family:'Segoe UI'"> Github Basic Statistics </p>
   </summary>
 
   <img align="left" alt="Github Basic Statistics" src="https://github-readme-stats.mauroalejandrojm.vercel.app/api?username=mauroalejandrojm&theme=vue&show_icons=true&count_private=true&hide_border=true" />
