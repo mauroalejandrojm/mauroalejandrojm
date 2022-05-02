@@ -46,7 +46,6 @@
 </summary>
 <img align="left" src="https://mauroalejandrojm.vercel.app/svg/resume.svg" width="840"/>
 
----
 
 <br />
 
