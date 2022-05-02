@@ -41,23 +41,19 @@
 
 ---
 
-<details>
-  <summary>
-  <p style="font-size:26px;font-family:'Segoe UI'"> My Resume </p>
-  </summary>
-  <img align="left" src="https://mauroalejandrojm.vercel.app/svg/resume.svg" width="840"/>
-</details>
+<summary>
+<b style="font-size:26px;font-family:'Segoe UI'"> My Resume </b>
+</summary>
+<img align="left" src="https://mauroalejandrojm.vercel.app/svg/resume.svg" width="840"/>
 
 ---
 
-<details>
-  <summary>
-  <p style="font-size:26px;font-family:'Segoe UI'"> Github Basic Statistics </p>
-  </summary>
+<summary>
+<b style="font-size:26px;font-family:'Segoe UI'"> Github Basic Statistics </b>
+</summary>
 
-  <img align="left" alt="Github Basic Statistics" src="https://github-readme-stats.mauroalejandrojm.vercel.app/api?username=mauroalejandrojm&theme=vue&show_icons=true&count_private=true&hide_border=true" />
+<img align="left" alt="Github Basic Statistics" src="https://github-readme-stats.mauroalejandrojm.vercel.app/api?username=mauroalejandrojm&theme=vue&show_icons=true&count_private=true&hide_border=true" />
 
-</details>
 
 [Medium]: https://medium.com/@JMmauro
 [twitter]: https://twitter.com/MauroJimenezM
