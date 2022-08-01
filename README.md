@@ -26,9 +26,9 @@
 
 ---
 
-<summary>
-<div style="font-size:26px;font-family:'Segoe UI'"> My Resume </div>
-</summary>
+<!-- <summary> -->
+<b style="font-size:26px;font-family:'Segoe UI'"> My Resume </b>
+<!-- </summary> -->
 <img align="left" src="https://mauroalejandrojm.vercel.app/svg/resume.svg" width="840"/>
 
 
