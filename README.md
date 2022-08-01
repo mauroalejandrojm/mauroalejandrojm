@@ -1,5 +1,5 @@
 ### Greetings, I'm Mauro Alejandro Jimenez Medina.
-### I'm on npm as [PatternPotter](https://www.npmjs.com/~patternpotter)
+### I'm on npm as [PatternPotter](https://www.npmjs.com/~patternpotter).
 
 ### Computer Science Researcher and Pattern Recognition Potter. <img src="https://mauroalejandrojm.vercel.app/svg/potterGlasses.svg" width="42">
 
