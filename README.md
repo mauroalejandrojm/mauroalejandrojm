@@ -26,14 +26,6 @@
 
 ---
 
-### My Resume
-<!-- <b style="font-size:26px;font-family:'Segoe UI'"> My Resume </b> -->
-<img align="left" src="https://mauroalejandrojm.vercel.app/svg/resume.svg" width="840"/>
-
-
-<br />
-
-
 [Medium]: https://medium.com/@JMmauro
 [twitter]: https://twitter.com/MauroJimenezM
 [linkedin]: https://www.linkedin.com/in/mauro-alejandro-jimenez-medina-b899b7167/
