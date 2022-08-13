@@ -34,9 +34,6 @@
 <br />
 
 
-<img align="left" alt="Github Basic Statistics" src="https://github-readme-stats.mauroalejandrojm.vercel.app/api?username=mauroalejandrojm&theme=vue&show_icons=true&count_private=true&hide_border=true" />
-
-
 [Medium]: https://medium.com/@JMmauro
 [twitter]: https://twitter.com/MauroJimenezM
 [linkedin]: https://www.linkedin.com/in/mauro-alejandro-jimenez-medina-b899b7167/
