@@ -24,8 +24,6 @@
 
 <br />
 
----
-
 [Medium]: https://medium.com/@JMmauro
 [twitter]: https://twitter.com/MauroJimenezM
 [linkedin]: https://www.linkedin.com/in/mauro-alejandro-jimenez-medina-b899b7167/
