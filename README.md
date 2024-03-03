@@ -8,10 +8,9 @@
 
 ### The most difficult skill I have learned is listening to others and being the last to talk.
 
-- I’m currently working on my Master's Thesis related to Deep Learning applied to Music Analysis and Synthesis.
-- I’m a Backend Developer with passion about design (Python3, C#, NodeJs, VueJs, NuxtJS, AngularJS).
-- I’m looking to collaborate with other Researchers on fields like Psychology, Signal Processing and Quatum Computing.
-- 2022 Goals: Contribute to Open Source projects (using Github).
+- I’m a Backend Developer with knowledge about frontend and a passion for design systems (Python3, C#, NodeJs, VueJs, NuxtJS, AngularJS).
+- I want to collaborate with other researchers in Psychology, Signal Processing and Quantum Computing.
+- 2024 Goals: Work and release my projects and contribute to Ppen Source projects (using Github).
 ---
 
 ### Social Networks:
