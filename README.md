@@ -1,5 +1,5 @@
 ### Greetings, I'm Mauro Alejandro Jimenez Medina.
-#### Data Engineer, Computer Science Researcher and Pattern Recognition Potter. <img src="https://mauroalejandrojm.vercel.app/svg/potterGlasses.svg" width="42">
+Data Engineer, Computer Science Researcher and Pattern Recognition Potter. <img src="https://mauroalejandrojm.vercel.app/svg/potterGlasses.svg" width="42">
 
 [![Linkedin Profile](https://img.shields.io/static/v1?label=My%20Profile&logo=Linkedin&logoColor=FFFFFF&style=for-the-badge&message=Mauro%20Jimenez%20M&color=0077B5)](https://www.linkedin.com/in/mauro-alejandro-jimenez-medina-b899b7167/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/MauroJimenezM?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://github.com/MauroJimenezM&screen_name=MauroJimenezM)
