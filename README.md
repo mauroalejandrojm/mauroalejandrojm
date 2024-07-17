@@ -3,7 +3,7 @@ Data Engineer, Computer Science Researcher and Pattern Recognition Potter. <img 
 
 ---
 
-### The most difficult skill I have learned is listening to others and being the last to talk.
+> ### The most difficult skill I have learned is listening to others and being the last to talk.
 
 - I’m also a Backend Developer with knowledge about frontend and a passion for design systems (Python3, C#, NodeJs, VueJs, NuxtJS, AngularJS).
 - I want to collaborate with other researchers in Psychology, Signal Processing and Quantum Computing.
