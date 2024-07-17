@@ -1,14 +1,14 @@
 ### Greetings, I'm Mauro Alejandro Jimenez Medina.
 ### I'm on npm as [PatternPotter](https://www.npmjs.com/~patternpotter).
 
-### Computer Science Researcher and Pattern Recognition Potter. <img src="https://mauroalejandrojm.vercel.app/svg/potterGlasses.svg" width="42">
+### Data Engineer, Computer Science Researcher and Pattern Recognition Potter. <img src="https://mauroalejandrojm.vercel.app/svg/potterGlasses.svg" width="42">
 
 [![Linkedin Profile](https://img.shields.io/static/v1?label=My%20Profile&logo=Linkedin&logoColor=FFFFFF&style=for-the-badge&message=Mauro%20Jimenez%20M&color=0077B5)](https://www.linkedin.com/in/mauro-alejandro-jimenez-medina-b899b7167/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/MauroJimenezM?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://github.com/MauroJimenezM&screen_name=MauroJimenezM)
 
 ### The most difficult skill I have learned is listening to others and being the last to talk.
 
-- I’m a Backend Developer with knowledge about frontend and a passion for design systems (Python3, C#, NodeJs, VueJs, NuxtJS, AngularJS).
+- I’m also a Backend Developer with knowledge about frontend and a passion for design systems (Python3, C#, NodeJs, VueJs, NuxtJS, AngularJS).
 - I want to collaborate with other researchers in Psychology, Signal Processing and Quantum Computing.
 - 2024 Goals: Work and release my projects and contribute to Open Source projects (using Github).
 ---
