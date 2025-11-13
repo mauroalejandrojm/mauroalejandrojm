@@ -1,5 +1,5 @@
 ### Greetings, 
-I'm Mauro Alejandro Jimenez Medina Sr Data Engineer. 
+I'm Mauro Sr Data Engineer. 
 
 I have also worked as a Computer Science Researcher and Pattern Recognition Potter. <img src="https://mauroalejandrojm.vercel.app/svg/potterGlasses.svg" width="42">
 
