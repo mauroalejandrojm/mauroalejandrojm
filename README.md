@@ -3,8 +3,6 @@ I'm Mauro Alejandro Jimenez Medina Sr Data Engineer.
 
 I have also worked as a Computer Science Researcher and Pattern Recognition Potter. <img src="https://mauroalejandrojm.vercel.app/svg/potterGlasses.svg" width="42">
 
-> ### The most difficult skill I have learned is listening to others and being the last to talk.
-
 - I’m also a Backend Developer with knowledge about frontend and a passion for design systems (Python3, C#, NodeJs, VueJs, NuxtJS, AngularJS).
 - I want to collaborate with other researchers in Psychology, Signal Processing and Quantum Computing.
 - 2024 Goals: Work and release my projects and contribute to Open Source projects (using Github).
