@@ -1,5 +1,7 @@
-### Greetings, I'm Mauro Alejandro Jimenez Medina.
-Data Engineer, Computer Science Researcher and Pattern Recognition Potter. <img src="https://mauroalejandrojm.vercel.app/svg/potterGlasses.svg" width="42">
+### Greetings, 
+I'm Mauro Alejandro Jimenez Medina Sr Data Engineer. 
+
+I have also worked as a Computer Science Researcher and Pattern Recognition Potter. <img src="https://mauroalejandrojm.vercel.app/svg/potterGlasses.svg" width="42">
 
 > ### The most difficult skill I have learned is listening to others and being the last to talk.
 
