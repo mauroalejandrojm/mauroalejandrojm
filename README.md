@@ -11,7 +11,7 @@ I have also worked as a Computer Science Researcher and Pattern Recognition Pott
 ### Social Networks:
 [<img align="left" alt="Mauro Jimenez M | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][Medium]
 [<img align="left" alt="Mauro Jimenez M | Researchgate" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/researchgate.svg" />][Researchgate]
-[<img align="left" alt="Mauro Jimenez M | Researchgate" width="22px" src="https://img.icons8.com/?size=100&id=11169&format=png&color=000000" />][Credly]
+[<img align="left" alt="Mauro Jimenez M | Researchgate" width="22px" src="https://img.icons8.com/?size=100&id=11215&format=png&color=000000" />][Credly]
 [<img align="left" alt="Mauro Jimenez M | Google Scholar" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlescholar.svg" />][GoogleScholar]
 [![Linkedin Profile](https://img.shields.io/static/v1?label=My%20Profile&logo=Linkedin&logoColor=FFFFFF&style=for-the-badge&message=Mauro%20Jimenez%20M&color=0077B5)](https://www.linkedin.com/in/mauro-alejandro-jimenez-medina-b899b7167/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/MauroJimenezM?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://github.com/MauroJimenezM&screen_name=MauroJimenezM)
